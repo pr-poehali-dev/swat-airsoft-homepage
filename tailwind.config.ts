@@ -61,6 +61,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				swat: {
+					DEFAULT: '#0F1C2E',
+					light: '#1A2B3F',
+					dark: '#0A1521'
+				},
+				tactical: {
+					orange: '#FF6B35',
+					gray: '#808080',
+					white: '#FFFFFF'
 				}
 			},
 			borderRadius: {
